@@ -1,5 +1,7 @@
 # docker-youtube-dl-vtt-to-srt
 
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/darodi/docker-youtube-dl-vtt-to-srt/Docker)](https://github.com/darodi/docker-youtube-dl-vtt-to-srt/actions/workflows/docker-publish.yml)
+
 ## Introduction
 
 this docker image uses the base docker image from   
