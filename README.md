@@ -7,7 +7,7 @@
 this docker image uses the base docker image from   
 https://github.com/mikenye/docker-youtube-dl
 
-\+ adds the capability to convert subtitles downloaded from vtt fo srt  
+\+ adds the capability to convert subtitles downloaded from vtt to srt  
 see https://github.com/darodi/vtt-to-srt
 
 ## 💾 Installation / build
